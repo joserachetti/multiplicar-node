@@ -2,12 +2,12 @@
 
 Esta es una aplicación para generar archivos de tablas de multiplicar
 
-Ejecutar este comando
+Ejecutar este comando para instalar repositorios:
 
 ```
 npm install
 ```
-Ejemplo de uso
+Ejemplo de uso:
 
 ```
 base = -b limite= -l
