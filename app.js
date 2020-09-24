@@ -22,7 +22,7 @@ switch (comando) {
         break;
 
     default:
-        console.log('Comando no reconocido'.red);
+        console.log('Comando no reconocido,ejecute (node app --help)'.red);
 }
 
 
